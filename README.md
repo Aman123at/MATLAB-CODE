@@ -4,4 +4,14 @@ Pole-Zero Cancelletion technique of transfer function,steady state response of t
 communication and control systems.
 Hope you find this codes are useful. 
 
+## Bode Plot Image
+![](/images/Bode_img.png)
 
+## Nyquist Plot Image
+![](/images/nyquist_img.png)
+
+## RootLocus Image
+![](/images/Rootlocus.png)
+
+## Nyquist Sampling Rate Image
+![](/images/sampling_rate.png)
